@@ -1,0 +1,23 @@
+{
+  "name": "festivalmusica_inicio",
+  "version": "1.0.0",
+  "description": "proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/japago25/fesivalDeMusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "John Pardo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/japago25/fesivalDeMusica/issues"
+  },
+  "homepage": "https://github.com/japago25/fesivalDeMusica#readme"
+}
