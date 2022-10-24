@@ -1,5 +1,7 @@
-body {
-  background-color: black;
+header {
+  color: blue;
 }
 
-/*# sourceMappingURL=app.css.map */
+h1 {
+  color: orange;
+}
